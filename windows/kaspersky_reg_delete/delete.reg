@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\KasperskyLab\LicStorage]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Cryptography\RNG]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\SystemCertificates\SPC\Certificates]
