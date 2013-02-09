@@ -16,3 +16,6 @@ aptitide install cmake
 
 # Install Qt library
 aptitude install qt4-qmake libqt4-dev
+
+# Server tools
+aptitude install iftop htop sockstat
