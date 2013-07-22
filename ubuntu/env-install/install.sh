@@ -4,10 +4,12 @@
 # Develope tools
 aptitue install build-essential
 
-# Firestarter
-aptitude install firestarter
-
 # Install GCC 4.7
 add-apt-repository ppa:ubuntu-toolchain-r/test
 aptitude install gcc-4.7 g++-4.7
 
+# Firestarter
+aptitude install firestarter
+
+# System tools
+aptitude install tree
