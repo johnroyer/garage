@@ -13,3 +13,9 @@ aptitude install firestarter
 
 # System tools
 aptitude install tree
+
+# Install Cmake
+aptitide install cmake
+
+# Install Qt library
+aptitude install qt4-qmake libqt4-dev
