@@ -1,0 +1,8 @@
+auto build step:
+
+    mkdir build
+    cd build
+    cmake ..
+    make
+
+

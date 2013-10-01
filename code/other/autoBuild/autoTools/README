@@ -1,0 +1,7 @@
+auto build:
+    
+	 aclocal
+	 autohead
+	 automake --add-mising --copy --foreign
+	 autoconf
+	 make
