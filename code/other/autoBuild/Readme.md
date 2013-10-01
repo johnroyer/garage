@@ -1,0 +1,1 @@
+Practicing and comparison between GNU auto tools and CMake.
